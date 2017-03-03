@@ -1,0 +1,11 @@
+bed_number,hospital_number,first_name,last_name,dob,current_diagnosis
+1,1223,John ,Smith,18/01/2015,COPD
+2,2133,Hannah,Gray,2/12/1980,Asthma
+3,2322,Kelly,Clarkson,5/09/1956,Fractured Clavicle
+4,1324,Charlie,Cook,31/07/1929,Malnutrition
+5,8645,Chang,Ping,30/01/1965,Confusion
+6,3244,Alice,Cooper,12/03/1970,ETOH overdose
+7,2145,Shane,Newton,5/11/1985,3rd degree burns
+8,1425,Nikita,Wilson,12/12/1987,Pneumonia
+9,8654,Carole,Matthews,15/04/1967,UTI
+10,3546,Greg,Spanner,7/05/1976,Prostate Cancer
